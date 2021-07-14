@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  FlappyBird
 //
-//  Created by 小池　亮義 on 2021/07/14.
+//  Created by akiyoshi220 on 2021/07/14.
 //
 
 import UIKit
